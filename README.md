@@ -1,16 +1,16 @@
 # nerds-nerf
 
-이 repository는 [가짜연구소](https://pseudo-lab.com)의 OpenLab 중 하나인, Nerd's NeRF 입니다.
+이 repository는 [가짜연구소](https://pseudo-lab.com)의 OpenLab 중 하나인, Nerd's NeRF 입니다. <br/>
 NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 것이 Nerd's NeRF팀의 목적입니다! 오픈 아카데미 형식으로, 누구나 참여할 수 있는 형태로 모임을 진행하여 국내 3D Computer Vision과 NeRF 영역에서 공유의 가치를 실현하며, 함께 성장하는 데 기여하고자 합니다.
 
-[소개 페이지](https://pseudo-lab.com/Nerd-s-NeRF-2efcb794acbb4a04880d09b162d123aa)
+[소개 페이지](https://pseudo-lab.com/Nerd-s-NeRF-2efcb794acbb4a04880d09b162d123aa) <br/>
 참여 방법: 매주 목요일 오후 10시, [가짜연구소 게더타운](https://bit.ly/3OblLdy) Academy Room B로 입장!
 
 ## Contributor
 
-- [김찬란 _Chanran Kim_](https://www.youtube.com/channel/UCWnc2XGGO9EqNcuXP-FVsuw) | Github | LinkedIn |
-- [박정현 _Junghyun Park_](https://www.youtube.com/channel/UCjNHFyqcXtSLS4vXBa3Nh6A) | Github | LinkedIn |
-- [신동원 _Dong-won Shin_](https://www.youtube.com/c/SLAMKR) | Github | LinkedIn | 
+- [김찬란 _Chanran Kim_](https://www.youtube.com/channel/UCWnc2XGGO9EqNcuXP-FVsuw) | [Github](https://github.com/seriousran) | [LinkedIn](https://www.linkedin.com/in/chanran-kim/) |
+- [박정현 _Junghyun Park_](https://www.youtube.com/channel/UCjNHFyqcXtSLS4vXBa3Nh6A) | [Github](https://github.com/parkjh688) | [LinkedIn](https://www.linkedin.com/in/junghyun-eden/) |
+- [신동원 _Dong-won Shin_](https://www.youtube.com/c/SLAMKR) | Github | [LinkedIn](https://www.linkedin.com/in/dong-won-shin-7a11b2240/) | 
 
 ## Schedule
 
