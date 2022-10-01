@@ -8,16 +8,17 @@ NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 �
 
 ## Contributor
 
-- [Chanran Kim](https://www.youtube.com/channel/UCWnc2XGGO9EqNcuXP-FVsuw)
-- [Junghyun Park](https://www.youtube.com/channel/UCjNHFyqcXtSLS4vXBa3Nh6A)
-- [Dong-won Shin](https://www.youtube.com/c/SLAMKR)
+- [김찬란 _Chanran Kim_](https://www.youtube.com/channel/UCWnc2XGGO9EqNcuXP-FVsuw) | Github | LinkedIn |
+- [박정현 _Junghyun Park_](https://www.youtube.com/channel/UCjNHFyqcXtSLS4vXBa3Nh6A) | Github | LinkedIn |
+- [신동원 _Dong-won Shin_](https://www.youtube.com/c/SLAMKR) | Github | LinkedIn | 
 
 ## Schedule
 
-| idx |    Date    | Presenter                          | Paper / Code                                                                            |
-|----:|:-----------|:-----------------------------------|:----------------------------------------------------------------------------------------|
-| 1   | 2022.09.15 | Chanran Kim                        | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) (ECCV 2020)      |
-| 2   | 2022.09.22 | Dong-won Shin <br /> Junghyun Park | [FastNeRF: High-Fidelity Neural Rendering at 200FPS](https://ieeexplore.ieee.org/document/9710021) (ICCV 2021) <br /> [Instant NGP : Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/) (SIGGRAPH 2022) |
-| 3   | 2022.09.29 | Chanran Kim                        | [NeRF official code](https://github.com/bmild/nerf)      |
-| 4   | 2022.10.06 | Dong-won Shin <br /> Junghyun Park | [Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields](https://arxiv.org/abs/2209.09050) <br /> [NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections](https://arxiv.org/abs/2008.02268) (CVPR 2021) |
-
+| idx |    Date    | Presenter | Review (Youtube) | Paper / Code |
+|----:|:-----------|:----------|:-----------------|:------------ |
+| 1   | 2022.09.15 | 김찬란    | link | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) (ECCV 2020) |
+| 2   | 2022.09.22 | 신동원    | [link](https://youtu.be/-plCk0IhBGQ) | [FastNeRF: High-Fidelity Neural Rendering at 200FPS](https://ieeexplore.ieee.org/document/9710021) (ICCV 2021) |
+| 3   | 2022.09.22 | 박정현    | [link](https://youtu.be/JMl9zkSudyU) | [Instant NGP : Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/) (SIGGRAPH 2022) |
+| 4   | 2022.09.29 | 김찬란    | link | [NeRF official code](https://github.com/bmild/nerf) |
+| 5   | 2022.10.06 | 신동원    | link | [Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields](https://arxiv.org/abs/2209.09050) |
+| 6   | 2022.10.06 | 박정현    | link | [NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections](https://arxiv.org/abs/2008.02268) (CVPR 2021) |
