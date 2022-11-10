@@ -20,10 +20,10 @@ NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 �
 | 2   | 2022.09.22 | 신동원    | [link](https://youtu.be/-plCk0IhBGQ) | [FastNeRF: High-Fidelity Neural Rendering at 200FPS](https://ieeexplore.ieee.org/document/9710021) (ICCV 2021) |
 | 3   | 2022.09.22 | 박정현    | [link](https://youtu.be/JMl9zkSudyU) | [Instant NGP : Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/) (SIGGRAPH 2022) |
 | 4   | 2022.09.29 | 김찬란    | link | [NeRF official code](https://github.com/bmild/nerf) |
-| 5   | 2022.10.06 | 신동원    | link | [Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields](https://arxiv.org/abs/2209.09050) |
+| 5   | 2022.10.06 | 신동원    | [link](https://youtu.be/kN7kIwRBKis) | [Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields](https://arxiv.org/abs/2209.09050) |
 | 6   | 2022.10.06 | 박정현    | [link](https://youtu.be/yXjVZ0tBNO8) | [NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections](https://arxiv.org/abs/2008.02268) (CVPR 2021) |
 | 7   | 2022.10.13 | 김찬란    | link | NeRF at ECCV 2022 preview |
 | 8   | 2022.10.20 | 박정현    | [link](https://youtu.be/RWOp8zGcbLI) |[pixelNeRF: Neural Radiance Fields from One or Few Images](https://arxiv.org/abs/2012.02190) (CVPR 2021)  |
-| 9   | 2022.10.27 | 신동원    | link | Nerfies: Deformable Neural Radiance Fields  |
+| 9   | 2022.10.27 | 신동원    | [link](https://youtu.be/Eu7vVwnvkIU) | [Nerfies: Deformable Neural Radiance Fields](https://nerfies.github.io/)  |
 | 10  | 2022.11.03 | 박정현    | [link](https://www.youtube.com/watch?v=nmM8nknt_bE&t=1202s) | [Block-NeRF: Scalable Large Scene Neural View Synthesis](https://arxiv.org/abs/2202.05263)  |
 
