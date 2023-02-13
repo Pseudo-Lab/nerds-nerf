@@ -11,6 +11,8 @@ NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 �
 - [김찬란 _Chanran Kim_](https://www.youtube.com/channel/UCWnc2XGGO9EqNcuXP-FVsuw) | [Github](https://github.com/seriousran) | [LinkedIn](https://www.linkedin.com/in/chanran-kim/) |
 - [박정현 _Junghyun Park_](https://www.youtube.com/channel/UCjNHFyqcXtSLS4vXBa3Nh6A) | [Github](https://github.com/parkjh688) | [LinkedIn](https://www.linkedin.com/in/junghyun-eden/) |
 - [신동원 _Dong-won Shin_](https://www.youtube.com/c/SLAMKR) | [Github](https://github.com/dong-won-shin) | [LinkedIn](https://www.linkedin.com/in/dong-won-shin-7a11b2240/) | 
+- [이인희 _Inhee Lee_]() | [Github]() | [LinkedIn]() | 
+- [김선호 _Sunho Kim_](https://www.youtube.com/channel/UCe8Q012lKq887dP76COM6eg) | [Github](https://github.com/Philipshrimp) | [LinkedIn](https://www.linkedin.com/in/ssunhokim/) | 
 
 ## Schedule
 
@@ -26,4 +28,16 @@ NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 �
 | 8   | 2022.10.20 | 박정현    | [link](https://youtu.be/RWOp8zGcbLI) |[pixelNeRF: Neural Radiance Fields from One or Few Images](https://arxiv.org/abs/2012.02190) (CVPR 2021)  |
 | 9   | 2022.10.27 | 신동원    | [link](https://youtu.be/Eu7vVwnvkIU) | [Nerfies: Deformable Neural Radiance Fields](https://nerfies.github.io/)  |
 | 10  | 2022.11.03 | 박정현    | [link](https://www.youtube.com/watch?v=nmM8nknt_bE&t=1202s) | [Block-NeRF: Scalable Large Scene Neural View Synthesis](https://arxiv.org/abs/2202.05263)  |
+| 11  | 2022.11.10 | 김찬란    | link | [Plenoxels: Radiance Fields without Neural Networks]()  |
+| 12  | 2022.11.17 | 신동원    | [link](https://youtu.be/C9JHhkDJSpM) | Instant NGP hands on tutorial  |
+| 13  | 2022.11.24 | 박정현    | [link](https://www.youtube.com/watch?v=xq9SNMgQGOA) | [NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images]()  |
+| 14  | 2022.12.01 | 이인희    | [link](https://youtu.be/_-fuel5WXSM) | [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields]()  |
+| 15  | 2022.12.15 | 김찬란    | link | [InfoNeRF: Ray Entropy Minimizationfor Few-Shot Neural Volume Rendering]()  |
+| 16  | 2022.12.22 | 신동원    | [link](https://youtu.be/y-4vLEo7hns) | [D-NeRF: Neural Radiance Fields for Dynamic Scenes]()  |
+| 17  | 2023.01.05 | 토론    | link | RODIN, NeRF-SLAM  |
+| 18  | 2023.01.12 | 박정현    | [link](https://www.youtube.com/watch?v=XMu2ujSM8Ik&t=1724s) | [IBRNet: Learning Multi-View Image-Based Rendering](https://arxiv.org/pdf/2102.13090.pdf)  |
+| 19  | 2023.01.18 | 이인희    | link | [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains]()  |
+| 20  | 2023.01.26 | 토론    | link | COLMAP  |
+| 21  | 2023.02.01 | 김선호    | [link](https://www.youtube.com/watch?v=iqEfKA7seNk) | [BARF: Bundle-Adjusting Neural Radiance Fields]()  |
+| 22  | 2022.02.09 | 신동원    | link | [NeRF-SLAM: Real-Time Dense Monocular SLAM with radiance Fields]()  |
 
