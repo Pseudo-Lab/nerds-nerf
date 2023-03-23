@@ -44,4 +44,5 @@ NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 �
 | 24  | 2022.02.23 | 토론    | link | Differentiable Rendering  |
 | 25  | 2022.03.02 | 박정현    | [link](https://youtu.be/dysfF6As_Io) | [Depth-supervised NeRF: Fewer Views and Faster Training for Free](https://arxiv.org/pdf/2107.02791.pdf) (CVPR 2022) |
 | 26  | 2022.03.09 | 김선호    | [link](https://youtu.be/pcnTE3gqIoY) | [Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://arxiv.org/pdf/2104.00677.pdf) (ICCV 2021)  |
+| 27  | 2022.03.16 | 김찬란    | link| [Compressing Volumetric Radiance Fields to 1 MB](https://arxiv.org/pdf/2211.16386.pdf) (CVPR 2023)  |
 
