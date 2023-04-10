@@ -11,7 +11,7 @@ NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 �
 - [김찬란 _Chanran Kim_](https://www.youtube.com/channel/UCWnc2XGGO9EqNcuXP-FVsuw) | [Github](https://github.com/seriousran) | [LinkedIn](https://www.linkedin.com/in/chanran-kim/) |
 - [박정현 _Junghyun Park_](https://www.youtube.com/channel/UCjNHFyqcXtSLS4vXBa3Nh6A) | [Github](https://github.com/parkjh688) | [LinkedIn](https://www.linkedin.com/in/junghyun-eden/) |
 - [신동원 _Dong-won Shin_](https://www.youtube.com/c/SLAMKR) | [Github](https://github.com/dong-won-shin) | [LinkedIn](https://www.linkedin.com/in/dong-won-shin-7a11b2240/) | 
-- 이인희 _Inhee Lee_ | Github | LinkedIn | 
+- [이인희 _Inhee Lee_](https://www.youtube.com/@sulwon3902/featured) | [Github](https://github.com/Sulwon-0516) | [LinkedIn](https://www.linkedin.com/in/sulwon/) | 
 - [김선호 _Sunho Kim_](https://www.youtube.com/channel/UCe8Q012lKq887dP76COM6eg) | [Github](https://github.com/Philipshrimp) | [LinkedIn](https://www.linkedin.com/in/ssunhokim/) | 
 
 ## Schedule
