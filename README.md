@@ -49,5 +49,5 @@ NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 �
 | 29  | 2022.03.30 | 토론      | link | 최신 동향 및 CVPR 2023 관련 토론 |
 | 30  | 2022.04.06 | 이인희    | link | [Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://arxiv.org/pdf/2112.03907) (CVPR 2022) |
 | 31  | 2022.04.13 | 김선호    | [link](https://youtu.be/nNHqj23MBKQ)| [FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization](https://arxiv.org/pdf/2303.07418) (CVPR 2023) |
-| 32  | 2022.04.20 | 김찬란    | link | [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://arxiv.org/pdf/2304.06706) () |
+| 32  | 2022.04.20 | 김찬란    | link | [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://arxiv.org/pdf/2304.06706) |
 | 33  | 2022.04.27 | 토론      | link | 자유주제 토론 |
