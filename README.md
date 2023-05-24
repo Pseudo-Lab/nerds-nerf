@@ -39,16 +39,16 @@ NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 �
 | 19  | 2023.01.18 | 이인희    | [link](https://youtu.be/R_eVgkBgFBM) | [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://proceedings.neurips.cc/paper/2020/file/55053683268957697aa39fba6f231c68-Paper.pdf) (NeurIPS 2020) |
 | 20  | 2023.01.26 | 토론    | link | [COLMAP](https://github.com/colmap/colmap.git)  |
 | 21  | 2023.02.02 | 김선호    | [link](https://www.youtube.com/watch?v=iqEfKA7seNk) | [BARF: Bundle-Adjusting Neural Radiance Fields](https://openaccess.thecvf.com/content/ICCV2021/papers/Lin_BARF_Bundle-Adjusting_Neural_Radiance_Fields_ICCV_2021_paper.pdf) (ICCV 2021) |
-| 22  | 2022.02.09 | 신동원    | [link](https://youtu.be/RGHcAnBFJYg) | [NeRF-SLAM: Real-Time Dense Monocular SLAM with radiance Fields](https://arxiv.org/pdf/2210.13641.pdf)  |
-| 23  | 2022.02.16 | 이인희    | link | [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://arxiv.org/pdf/2210.13641.pdf) (NeurIPS 2021)  |
-| 24  | 2022.02.23 | 토론    | link | Differentiable Rendering  |
-| 25  | 2022.03.02 | 박정현    | [link](https://youtu.be/dysfF6As_Io) | [Depth-supervised NeRF: Fewer Views and Faster Training for Free](https://arxiv.org/pdf/2107.02791.pdf) (CVPR 2022) |
-| 26  | 2022.03.09 | 김선호    | [link](https://youtu.be/pcnTE3gqIoY) | [Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://arxiv.org/pdf/2104.00677.pdf) (ICCV 2021)  |
-| 27  | 2022.03.16 | 김찬란    | link | [Compressing Volumetric Radiance Fields to 1 MB](https://arxiv.org/pdf/2211.16386.pdf) (CVPR 2023)  |
-| 28  | 2022.03.23 | 박정현    | [link](https://youtu.be/7cwLQ5_O9aw)| [LERF: Language Embedded Radiance Fields](https://arxiv.org/pdf/2303.09553.pdf) |
-| 29  | 2022.03.30 | 토론      | link | 최신 동향 및 CVPR 2023 관련 토론 |
-| 30  | 2022.04.06 | 이인희    | link | [Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://arxiv.org/pdf/2112.03907) (CVPR 2022) |
-| 31  | 2022.04.13 | 김선호    | [link](https://youtu.be/nNHqj23MBKQ)| [FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization](https://arxiv.org/pdf/2303.07418) (CVPR 2023) |
-| 32  | 2022.04.20 | 김찬란    | link | [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://arxiv.org/pdf/2304.06706) |
-| 33  | 2022.04.27 | 토론      | link | 자유주제 토론 |
-| 34  | 2022.05.11 | 박정현      | [link](https://youtu.be/2nSeVSjBuGU) | [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://arxiv.org/abs/2212.07388)|
+| 22  | 2023.02.09 | 신동원    | [link](https://youtu.be/RGHcAnBFJYg) | [NeRF-SLAM: Real-Time Dense Monocular SLAM with radiance Fields](https://arxiv.org/pdf/2210.13641.pdf)  |
+| 23  | 2023.02.16 | 이인희    | link | [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://arxiv.org/pdf/2210.13641.pdf) (NeurIPS 2021)  |
+| 24  | 2023.02.23 | 토론    | link | Differentiable Rendering  |
+| 25  | 2023.03.02 | 박정현    | [link](https://youtu.be/dysfF6As_Io) | [Depth-supervised NeRF: Fewer Views and Faster Training for Free](https://arxiv.org/pdf/2107.02791.pdf) (CVPR 2022) |
+| 26  | 2023.03.09 | 김선호    | [link](https://youtu.be/pcnTE3gqIoY) | [Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://arxiv.org/pdf/2104.00677.pdf) (ICCV 2021)  |
+| 27  | 2023.03.16 | 김찬란    | link | [Compressing Volumetric Radiance Fields to 1 MB](https://arxiv.org/pdf/2211.16386.pdf) (CVPR 2023)  |
+| 28  | 2023.03.23 | 박정현    | [link](https://youtu.be/7cwLQ5_O9aw)| [LERF: Language Embedded Radiance Fields](https://arxiv.org/pdf/2303.09553.pdf) |
+| 29  | 2023.03.30 | 토론      | link | 최신 동향 및 CVPR 2023 관련 토론 |
+| 30  | 2023.04.06 | 이인희    | link | [Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://arxiv.org/pdf/2112.03907) (CVPR 2022) |
+| 31  | 2023.04.13 | 김선호    | [link](https://youtu.be/nNHqj23MBKQ)| [FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization](https://arxiv.org/pdf/2303.07418) (CVPR 2023) |
+| 32  | 2023.04.20 | 김찬란    | link | [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://arxiv.org/pdf/2304.06706) |
+| 33  | 2023.04.27 | 토론      | link | 자유주제 토론 |
+| 34  | 2023.05.11 | 박정현      | [link](https://youtu.be/2nSeVSjBuGU) | [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://arxiv.org/abs/2212.07388)|
