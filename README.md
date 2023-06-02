@@ -51,4 +51,6 @@ NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 �
 | 31  | 2023.04.13 | 김선호    | [link](https://youtu.be/nNHqj23MBKQ)| [FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization](https://arxiv.org/pdf/2303.07418) (CVPR 2023) |
 | 32  | 2023.04.20 | 김찬란    | link | [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://arxiv.org/pdf/2304.06706) |
 | 33  | 2023.04.27 | 토론      | link | 자유주제 토론 |
-| 34  | 2023.05.11 | 박정현      | [link](https://youtu.be/2nSeVSjBuGU) | [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://arxiv.org/abs/2212.07388)|
+| 34  | 2023.05.11 | 박정현      | [link](https://youtu.be/2nSeVSjBuGU) | [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://arxiv.org/pdf/2212.07388)|
+| 35  | 2023.05.18 | 김선호      | [link](https://youtu.be/mrRQ-6iC9xA) | [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://arxiv.org/pdf/2303.15951.pdf) (CVPR 2023)|
+| 36  | 2023.06.01 | 토론      | link | NeRF 개별 실습 결과 공유 및 실험 희망 환경 공유 |
