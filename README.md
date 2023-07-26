@@ -13,6 +13,8 @@ NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 �
 - [신동원 _Dong-won Shin_](https://www.youtube.com/c/SLAMKR) | [Github](https://github.com/dong-won-shin) | [LinkedIn](https://www.linkedin.com/in/dong-won-shin-7a11b2240/) | 
 - [이인희 _Inhee Lee_](https://www.youtube.com/@sulwon3902/featured) | [Github](https://github.com/Sulwon-0516) | [LinkedIn](https://www.linkedin.com/in/sulwon/) | 
 - [김선호 _Sunho Kim_](https://www.youtube.com/channel/UCe8Q012lKq887dP76COM6eg) | [Github](https://github.com/Philipshrimp) | [LinkedIn](https://www.linkedin.com/in/ssunhokim/) | 
+- 구승연 | Github | LinkedIn | 
+- 김도연 | Github | LinkedIn | 
 
 ## Schedule
 
@@ -55,3 +57,9 @@ NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 �
 | 35  | 2023.05.18 | 김선호      | [link](https://youtu.be/mrRQ-6iC9xA) | [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://arxiv.org/pdf/2303.15951.pdf) (CVPR 2023)|
 | 36  | 2023.06.01 | 토론      | link | NeRF 개별 실습 결과 공유 및 실험 희망 환경 공유 |
 | 37  | 2023.06.08 | 구승연    | [link](https://www.youtube.com/watch?v=t8YVORJJgsE) | [NeRF-SR: High-Quality Neural Radiance Fields using Super-Sampling](https://cwchenwang.github.io/NeRF-SR/)|
+| 38  | 2023.06.15 | 김도연    | link | DreamFusion: Text-to-3D using 2D Diffusion|
+| 39  | 2023.06.22 | 김찬란    | link | NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields|
+| 40  | 2023.06.29 | 토론    | link | 자유주제 토론 |
+| 41  | 2023.07.06 | 박정현    | link | Removing Objects From Neural Radiance Fields|
+| 42  | 2023.07.13 | 김선호    | [link](https://youtu.be/KU4HD660kf0) | [Accelerated Coordinate Encoding: Learning to Relocalize in Minutes using RGB and Poses](https://arxiv.org/abs/2305.14059) (CVPR 2023)|
+| 43  | 2023.07.20 | 구승연    | link | ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field|
