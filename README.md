@@ -63,3 +63,7 @@ NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 �
 | 41  | 2023.07.06 | 박정현    | link | Removing Objects From Neural Radiance Fields|
 | 42  | 2023.07.13 | 김선호    | [link](https://youtu.be/KU4HD660kf0) | [Accelerated Coordinate Encoding: Learning to Relocalize in Minutes using RGB and Poses](https://arxiv.org/abs/2305.14059) (CVPR 2023)|
 | 43  | 2023.07.20 | 구승연    | link | ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field|
+| 48  | 2023.09.14 | 김선호   | [link](https://youtu.be/hrCHu5R_v8E?si=bMCH39YN-Ct78bnY
+) | BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects|
+| 49  | 2023.09.21 | 박정현    | [link](https://youtu.be/rvNCcXe3trs?si=shO-rN7oTBhxagYO) | Neuralangelo: High-Fidelity Neural Surface Reconstruction|
+| 50  | 2023.10.05 | 김도연    | link | 3D Gaussian Splatting|
