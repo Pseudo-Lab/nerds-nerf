@@ -5,7 +5,7 @@ NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 �
 
 [소개 페이지](https://pseudo-lab.com/Nerd-s-NeRF-2efcb794acbb4a04880d09b162d123aa) <br/>
 참여 방법: 매주 목요일 오후 10시, [가짜연구소 Discord](https://discord.gg/sDgnqYWA3G) Room GH로 입장!
-
+ㅌ
 ## Contributor
 
 - [김찬란 _Chanran Kim_](https://www.youtube.com/channel/UCWnc2XGGO9EqNcuXP-FVsuw) | [Github](https://github.com/seriousran) | [LinkedIn](https://www.linkedin.com/in/chanran-kim/) |
@@ -92,8 +92,8 @@ NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 �
 | 64  | 2024.03.14 | 김도연    | [link](https://youtu.be/fG2SNvWzz54?si=IOSrCF1lHe1oDnjE) | GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis |
 |  -  | 2024.03.14 | 전승진    | link | LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes |
 | 65  | 2024.03.21 | 김건호    | link | SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering |
-| 66  | 2024.03.28 | 김석민    | link | Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis |
-|  -  | 2024.03.28 | 강윤석    | link | VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction |
+| 66  | 2024.03.28 | 김석민    | [link](https://youtu.be/aFb8gi7ywkM?si=4wQsH6dVvsnud_I8) | Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis |
+|  -  | 2024.03.28 | 강윤석    | [link](https://youtu.be/thANEeTbnfE?si=FRC2RTYEeNBUuIrL) | VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction |
 | 67  | 2024.04.04 | 강창진    | link | GauStudio: A Modular Framework for 3D Gaussian Splatting and Beyond |
 |  -  | 2024.04.04 | 윤일승    | link | GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting |
 | 68  | 2024.04.11 | -    | - | 자유주제 토론 - 오프라인 모임 |
@@ -101,4 +101,19 @@ NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 �
 | 70  | 2024.04.25 | 박정현    | link | TripoSR: Fast 3D Object Reconstruction from a Single Image |
 |  -  | 2024.04.25 | 전승진    | link | DUSt3R: Geometric 3D Vision Made Easy |
 | 71  | 2024.05.02 | 김도연    | [link](https://youtu.be/9S2z3h2YkfM?si=PHiYmfN6Z2z8Qfpn) | InstantSplat: Unbounded Sparse-view Pose-free Gaussian Splatting in 40 Seconds |
-|  -  | 2024.05.02 | 김건호    | link | Surface Reconstruction from Gaussian Splatting via Novel Stereo Views |
+|  -  | 2024.05.02 | 김건호    | [link](https://youtu.be/jXlbbAftQyU?si=w4lM-JPDTTeQ31UA) | Surface Reconstruction from Gaussian Splatting via Novel Stereo Views |
+| 72  | 2024.05.09 | 김선호    | link | FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects |
+|  -  | 2024.05.09 | 김석민    | link | High-quality Surface Reconstruction using Gaussian Surfels |
+| 73  | 2024.05.16 | 강창진    | link | Compact 3D Gaussian Representation for Radiance Field |
+|  -  | 2024.05.16 | 윤일승    | link | Gaussian Splatting SLAM |
+| 74  | 2024.05.23 | 강윤석    | [link](https://youtu.be/oJEPQoE-_Rg?si=DBAuDEsjrkQcMbhv) | EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS |
+|  -  | 2024.05.23 | -    | - | 자유주제 토론 : 3DGS 서비스화 이슈 |
+| 75  | 2024.05.30 | 김찬란    | link | CAT3D : Create Anything in 3D with Multi-View Diffusion Models |
+| 76  | 2024.06.06 | 김도연    | link | GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting |
+| 77  | 2024.06.13 | 김건호    | link | Tetrahedron Splatting for 3D Generation, NeurIPS 2024 submission |
+|  -  | 2024.06.13 | 김선호    | link | 2DGS: 2D Gaussian Splatting for Geometrically Accurate Radiance Fields |
+| 78  | 2024.06.20 | 강윤석    | link | CityGaussian: Real-time High-quality Large-Scale Scene Rendering with Gaussians |
+| 79  | 2024.06.27 | 윤일승    | link | DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes  |
+|  -  | 2024.06.27 | 강창진    | link | LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching |
+| 80  | 2024.07.04 | 전승진    | link | 3D-HGS: 3D Half-Gaussian Splatting |
+|  -  | 2024.07.04 | 김석민    | link | Vidu4D: Single Generated Video to High-Fidelity 4D Reconstruction with Dynamic Gaussian Surfels |
