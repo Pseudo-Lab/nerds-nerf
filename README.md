@@ -92,7 +92,7 @@ NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 �
 | 64  | 2024.03.14 | 김도연    | [link](https://youtu.be/fG2SNvWzz54?si=IOSrCF1lHe1oDnjE) | GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis |
 |  -  | 2024.03.14 | 전승진    | link | LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes |
 | 65  | 2024.03.21 | 김건호    | link | SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering |
-| 66  | 2024.03.28 | 김석민    | link | Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis |
+| 66  | 2024.03.28 | 김석민    | [link](https://youtu.be/aFb8gi7ywkM?si=4wQsH6dVvsnud_I8) | Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis |
 |  -  | 2024.03.28 | 강윤석    | [link](https://youtu.be/thANEeTbnfE?si=FRC2RTYEeNBUuIrL) | VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction |
 | 67  | 2024.04.04 | 강창진    | link | GauStudio: A Modular Framework for 3D Gaussian Splatting and Beyond |
 |  -  | 2024.04.04 | 윤일승    | link | GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting |
