@@ -129,8 +129,7 @@ NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 �
 |  -  | 2024.08.15 | 강윤석    | link | ThermoNeRF: Multimodal Neural Radiance Fields for Thermal Novel View Synthesis | 
 |  85  | 2024.08.22 | 김석민    | link | MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes, arXiv 2024 | 
 |  86  | 2024.08.29 | 윤일승    | link | 3DGS-ReLoc: 3D Gaussian Splatting for Map Representation and Visual ReLocalization | 
-|  87  | 2024.09.12 | 전승진    | link | Spann3R
-3D Reconstruction with Spatial Memory | 
+|  87  | 2024.09.12 | 전승진    | link | Spann3R 3D Reconstruction with Spatial Memory | 
 |  88  | 2024.09.26 | 김선호    | link | 3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes | 
 |  -  | 2024.09.26 | 김도연    | link | Instant Facial Gaussians Translator for Relightable and Interactable Facial Rendering | 
 |  89  | 2024.10.03 | 박정현    | link | MetaFood CVPR 2024 Challenge | 
