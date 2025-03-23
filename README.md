@@ -21,6 +21,10 @@ NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 �
 - 강윤석 | Github | LinkedIn | 
 - 강창진 | Github | LinkedIn | 
 - 윤일승 | Github | LinkedIn | 
+- 이인서 | Github | LinkedIn | 
+- 김세연 | Github | LinkedIn | 
+- 박찬민 | Github | LinkedIn | 
+- 김성엽 | Github | LinkedIn | 
 
 ## Schedule
 
@@ -117,3 +121,35 @@ NeRF에 대해 깊이 이해하고, 관련된 최신 논문들을 따라잡는 �
 |  -  | 2024.06.27 | 강창진    | link | LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching |
 | 80  | 2024.07.04 | 전승진    | link | 3D-HGS: 3D Half-Gaussian Splatting |
 |  -  | 2024.07.04 | 김석민    | link | Vidu4D: Single Generated Video to High-Fidelity 4D Reconstruction with Dynamic Gaussian Surfels |
+|  81  | 2024.07.18 | 박정현    | link | MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images |
+|  82  | 2024.08.01 | 김선호    | link | SMERF: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene Exploration | 
+|  83  | 2024.08.08 | 김찬란    | link | Global Structure-from-Motion Revisited | 
+|  -  | 2024.08.08 | 김도연    | link | Grendel-GS : On Scaling Up 3D Gaussian Splatting Training | 
+|  84  | 2024.08.15 | 김건호    | link | Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction | 
+|  -  | 2024.08.15 | 강윤석    | link | ThermoNeRF: Multimodal Neural Radiance Fields for Thermal Novel View Synthesis | 
+|  85  | 2024.08.22 | 김석민    | link | MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes, arXiv 2024 | 
+|  86  | 2024.08.29 | 윤일승    | link | 3DGS-ReLoc: 3D Gaussian Splatting for Map Representation and Visual ReLocalization | 
+|  87  | 2024.09.12 | 전승진    | link | Spann3R
+3D Reconstruction with Spatial Memory | 
+|  88  | 2024.09.26 | 김선호    | link | 3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes | 
+|  -  | 2024.09.26 | 김도연    | link | Instant Facial Gaussians Translator for Relightable and Interactable Facial Rendering | 
+|  89  | 2024.10.03 | 박정현    | link | MetaFood CVPR 2024 Challenge | 
+|  -  | 2024.10.03 | 김건호    | link | PAPR: Proximity Attention Point Rendering", NeurIPS 2023 Spotlight | 
+|  90  | 2024.10.10 | 김석민    | link | SwinGS: Sliding Window Gaussian Splatting for Volumetric Video Streaming with Arbitrary Length | 
+|  91  | 2024.10.17 | 윤일승    | link | GaussReg: Fast 3D Registration with Gaussian Splatting | 
+|  92  | 2024.10.24 | 강윤석    | link | 3D-LLM: Injecting the 3D World into Large Language Models(NeurIPS 2023 Spotlight) | 
+|  93  | 2024.10.31 | 김찬란    | link | ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting | 
+|  94  | 2024.11.14 | 김도연    | link | Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats | 
+|  -  | 2024.11.14 | 전승진    | link | DepthSplat : Connecting Gaussian Splatting and Depth | 
+|  95  | 2024.11.21 | 김석민    | link | GaussianBeV : 3D Gaussian Representation meets Perception Models for BeV Segmentation | 
+|  96  | 2024.11.28 | 강윤석    | link | ThermalGaussian: Thermal 3D Gaussian Splatting | 
+|  97  | 2024.12.05 | 김건호    | link | LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation | 
+|  98  | 2024.12.26 | 윤일승    | link | Gassidy: Gaussian Splatting SLAM in Dynamic Environments | 
+|  99  | 2025.01.02 | 김찬란    | link | SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting | 
+|  100  | 2025.01.09 | 김도연    | link |  DiffusionGS: Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation | 
+|  101  | 2025.01.16 | 김석민    | link |  gsplat: An Open-Source Library for Gaussian Splatting | 
+|  102  | 2025.01.23 | 김건호    | link |  Physically Compatible 3D Object Modeling from a Single Image, NeurIPS 2024 Spotlight | 
+|  103  | 2025.02.27 | 강윤석    | link |  NO POSE, NO PROBLEM: SURPRISINGLY SIMPLE 3D  GAUSSIAN SPLATS FROM SPARSE UNPOSED IMAGES(ICLR 2025, Oral) | 
+|  104  | 2025.03.03 | -    | link |  O.T. | 
+|  105  | 2025.03.13 | 김도연    | link |  Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering | 
+|  106  | 2025.03.20 | 윤일승    | link |  Speedy-Splat: Fast 3D Gaussian Splatting with Sparse Pixels and Sparse Primitives | 
